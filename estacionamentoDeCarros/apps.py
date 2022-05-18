@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
-
-class EstacionamentoConfig(AppConfig):
+class estacionamentoDeCarrosConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'estacionamento'
+    name = 'estacionamentoDeCarros'
+
